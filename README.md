@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software developer who enjoys wor
 
 ## 🚀 Technologies & Tools
 
-- 💻 Languages: **Java**, **Python**, **C#**
+- 💻 Languages: **Java**, **Python**, **C#**, **JavaScript**
 - 🌐 Interests: Web development, backend services, and system design
 - 🧠 Always learning something new and exploring tech trends
 
