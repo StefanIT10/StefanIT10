@@ -10,8 +10,10 @@ Welcome to my GitHub profile! I'm a passionate software developer who enjoys wor
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StefanIT10&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanIT10&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=StefanIT10&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=StefanIT10&layout=compact&theme=tokyonight)
+
 
 
 ## 🔗 Connect with me
