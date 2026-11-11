@@ -11,9 +11,10 @@ Welcome to my GitHub profile! I'm a passionate software developer who enjoys wor
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=StefanIT10&show_icons=true&include_all_commits=true&theme=tokyonight)
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=StefanIT10&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5&langs_count=10)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=StefanIT10&show_icons=true&include_all_commits=true&theme=tokyonight" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=StefanIT10&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5&langs_count=10" height="180" />
+</p>
 
 
 
